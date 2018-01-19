@@ -506,3 +506,4 @@ macro(HunterGate)
     set_property(GLOBAL PROPERTY HUNTER_GATE_DONE YES)
   endif()
 endmacro()
+
